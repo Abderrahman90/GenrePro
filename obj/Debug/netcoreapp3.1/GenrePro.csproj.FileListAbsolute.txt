@@ -1,0 +1,14 @@
+C:\Users\Abder\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\GenrePro.exe
+C:\Users\Abder\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\GenrePro.deps.json
+C:\Users\Abder\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\GenrePro.runtimeconfig.json
+C:\Users\Abder\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\GenrePro.runtimeconfig.dev.json
+C:\Users\Abder\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\GenrePro.dll
+C:\Users\Abder\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\GenrePro.pdb
+C:\Users\Abder\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\GenrePro.csproj.AssemblyReference.cache
+C:\Users\Abder\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\GenrePro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abder\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\GenrePro.AssemblyInfoInputs.cache
+C:\Users\Abder\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\GenrePro.AssemblyInfo.cs
+C:\Users\Abder\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\GenrePro.csproj.CoreCompileInputs.cache
+C:\Users\Abder\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\GenrePro.dll
+C:\Users\Abder\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\GenrePro.pdb
+C:\Users\Abder\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\GenrePro.genruntimeconfig.cache
